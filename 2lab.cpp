@@ -7,5 +7,5 @@ int main()
     cin >>a >>b;
     cout << "Sum A and B is: " <<(a+b);  '\n'
     cout << "Difference A and B is :" <<(a-b); '\n'
-    cout << "Multiplication A and B is: " <<(a*b); '\n';
+    cout << "Division A on B is: " <<(a/b); '\n';
 }
